@@ -7,6 +7,10 @@ correção
 	git branch nome-branch
 	git checkout nome-branch
 	git branch -D nome-branch
+<<<<<<< HEAD
 	git merge nome-branch
 
 	linha de conflito
+=======
+	git merge nome-branch
+>>>>>>> c2f1852dcc6e01fa1cdf3a05d9510afe8df4e859
