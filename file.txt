@@ -3,3 +3,8 @@ linha 2
 envia email
 teste
 correção
+
+	git branch nome-branch
+	git checkout nome-branch
+	git branch -D nome-branch
+	git merge nome-branch
